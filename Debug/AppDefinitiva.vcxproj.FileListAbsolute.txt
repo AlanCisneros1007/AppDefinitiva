@@ -1,0 +1,5 @@
+C:\Users\Alan Cisneros\source\repos\AppDefinitiva\Debug\AppDefinitiva.exe
+C:\Users\Alan Cisneros\source\repos\AppDefinitiva\Debug\AppDefinitiva.pdb
+C:\Users\Alan Cisneros\source\repos\AppDefinitiva\Debug\AppDefinitiva.vcxprojAssemblyReference.cache
+C:\Users\Alan Cisneros\source\repos\AppDefinitiva\Debug\AppDefinitiva.MainForm.resources
+C:\Users\Alan Cisneros\source\repos\AppDefinitiva\Debug\AppDefinitiva.vcxproj.GenerateResource.cache
